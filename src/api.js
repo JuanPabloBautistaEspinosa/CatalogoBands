@@ -72,7 +72,7 @@ const SEMILLA = [
     ],
   },
   {
-    id: 4, nombre: "Black Sabbath", genero: "Rock", pais: "Reino Unido", imagen: "../../public/wp3206741-black-sabbath-wallpaper-logo.jpg",
+    id: 4, nombre: "Black Sabbath", genero: "Rock", pais: "Reino Unido", imagen: "../public/wp3206741-black-sabbath-wallpaper-logo.jpg",
     historia:"Black Sabbath fue una banda británica formada en Birmingham, Inglaterra, en 1968. La alineación clásica estaba integrada por Ozzy Osbourne (voz), Tony Iommi (guitarra), Geezer Butler (bajo y letras) y Bill Ward (batería). Se les considera los creadores del heavy metal.",
     canciones:[
       {
